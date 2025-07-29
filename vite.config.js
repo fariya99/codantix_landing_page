@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
  
 
-  base: '/fariya99.github.io/'
+  base: '/codantix_landing_page/'
 ,   // 👈 VERY important for GitHub Pages
   plugins: [react()],
 })
